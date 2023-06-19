@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "3d-force-graph": "^1.71.4",
+    "three": "^0.153.0",
+    "vite": "^4.3.9"
+  }
+}
