@@ -29,7 +29,6 @@ if (vaultName !== null) {
   jsonUrl = `${dataUrl}?${param}=${vaultName}`
 }
 
-console.log(import.meta.env.VITE_SOME_KEY) // "123"
 
 ForceGraph3D()
   (document.getElementById('3d-graph'))
