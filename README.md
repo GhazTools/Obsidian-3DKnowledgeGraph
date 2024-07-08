@@ -1,6 +1,6 @@
 # Obsidian-3DKnowledgeGraph
 
-# To run locall
+# To run locally
 ```
 npx vite
 ```
